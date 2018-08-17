@@ -1,0 +1,19 @@
+ 
+// Commands (ID_* and IDM_*) 
+HIDM_ABOUTBOX                           0x10010
+ 
+// Prompts (IDP_*) 
+HIDP_SOCKETS_INIT_FAILED                0x30067
+ 
+// Resources (IDR_*) 
+HIDR_MAINFRAME                          0x20080
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+HIDD_REMOTESHOW_DIALOG                  0x20066
+HIDD_ADMIN_DLG                          0x20081
+HIDD_CLIENT                             0x20085
+HIDD_MESSAGE                            0x20087
+HIDD_EXIT_DIALOG                        0x20089
+ 
+// Frame Controls (IDW_*) 
